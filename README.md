@@ -1,9 +1,10 @@
-# Atom Dark UI theme
+# Ureshii Dark UI Theme
 
-Default dark UI theme for Atom.
+> A UI to help instill a sense of happiness when you see your code in
+> the morning.
 
-This theme is installed by default with Atom and can be activated by going to
-the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the
-_UI Themes_ drop-down menu.
+This theme can be activated by going to the _Themes_ section in the Settings
+view (`cmd-,`) and selecting _Ureshii Dark_ it from the _UI Themes_
+drop-down menu.
 
-![](https://f.cloud.github.com/assets/671378/2265086/c6897dba-9e7b-11e3-945d-551cac610717.png)
+<img to go here at some point> 
