@@ -1,14 +1,21 @@
-// Colors
+// # Colors
+@red: rgb(187, 46, 30);
+@orange: rgb(228, 121, 58);
+@cream: rgb(239, 230, 200);
+@peach: rgb(245, 217, 195);
+@green: rgb(143, 184, 50);
+@dark-purple: rgb(71, 35, 111);
 
-@text-color: #aaa;
-@text-color-subtle: #555;
-@text-color-highlight: #fff;
+// # Text
+@text-color: @cream;
+@text-color-subtle: fadeout( @cream, 85% );
+@text-color-highlight: lighten( @cream, 10% ); // #fff
 @text-color-selected: @text-color-highlight;
 
 @text-color-info: #5293d8;
-@text-color-success: #26c26a;
-@text-color-warning: #ff982d;
-@text-color-error: #c00;
+@text-color-success: @green; //#26c26a
+@text-color-warning: @orange; //#ff982d
+@text-color-error: @red; //#c00
 
 @text-color-ignored: @text-color-subtle;
 @text-color-added: @text-color-success;
@@ -51,8 +58,8 @@
 @button-background-color-selected: #5c6064;
 @button-border-color: @base-border-color;
 
+// # Tabs
 @tab-bar-background-color: #222;
-// @tab-bar-background-color: rgb(66, 66, 66);
 @tab-bar-border-color: darken(@tab-background-color-active, 10%);
 @tab-background-color: rgb(66, 66, 66);
 @tab-background-color-active: #222;
