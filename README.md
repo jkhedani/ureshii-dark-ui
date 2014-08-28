@@ -1,4 +1,5 @@
 # Ureshii Dark Ui Theme
+  Version 0.1
 
 > A UI to help instill a sense of happiness when you see your code in
 > the morning.
